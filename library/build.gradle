@@ -24,8 +24,8 @@ android {
     }
 }
 
-def siteUrl = 'https://github.com/iNdieboyjeff/coreutilities'      // Homepage URL of the library
-def gitUrl = 'https://github.com/iNdieboyjeff/coreutilities.git'   // Git repository URL
+def siteUrl = 'https://github.com/iNdieboyjeff/CustomDialog'      // Homepage URL of the library
+def gitUrl = 'https://github.com/iNdieboyjeff/CustomDialog.git'   // Git repository URL
 
 install {
     repositories.mavenInstaller {
